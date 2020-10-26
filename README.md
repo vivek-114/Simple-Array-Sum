@@ -108,3 +108,6 @@ char** split_string(char* str) {
 
     return splits;
 }
+
+#1   i just add sum feature in your program 
+#2   simple program  
